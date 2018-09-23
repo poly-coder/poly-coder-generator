@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        poly-coder-cms
+        poly-coder
       </h1>
       <h2 class="subtitle">
-        poly-coder CMS
+        poly-coder
       </h2>
       <div class="links">
         <a
